@@ -1,44 +1,44 @@
 {
 	"labels":[
 		{
-			"id":1,
+			"labelName":"lblTxtLabel1",
 			"labelDispName": "field1"
 		},
 		{
-			"id":2,
+			"labelName":"lblTxtLabel2",
 			"labelDispName": "field2"
 		},
 		{
-			"id":3,
+			"labelName":"lblTxtLabel3",
 			"labelDispName": "field3"
 		},
 		{
-			"id":4,
+			"labelName":"lblTxtLabel4",
 			"labelDispName": "field4"
 		},
 		{
-			"id":5,
+			"labelName":"lblTxtLabel5",
 			"labelDispName": "field5"
 		},
 		{
-			"id":6,
+			"labelName":"lblTxtLabel6",
 			"labelDispName": "field6"
 		},
 		{
-			"id":7,
+			"labelName":"lblTxtLabel7",
 			"labelDispName": "field7"
 		},
 		{
-			"id":8,
+			"labelName":"lblTxtLabel8",
 			"labelDispName": "field8"
 		},
 		{
-			"id":9,
+			"labelName":"lblTxtLabel9",
 			"labelDispName": "field9"
 		},
 
 		{
-			"id":10,
+			"labelName":"lblTxtLabel10",
 			"labelDispName": "field10"
 		}
 
