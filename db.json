@@ -1,44 +1,44 @@
 {
 	"labels":[
 		{
-			"labelName":"lblTxtLabel1",
+			"labelName":"cdField1",
 			"labelDispName": "field1"
 		},
 		{
-			"labelName":"lblTxtLabel2",
+			"labelName":"cdField2",
 			"labelDispName": "field2"
 		},
 		{
-			"labelName":"lblTxtLabel3",
+			"labelName":"cdField3",
 			"labelDispName": "field3"
 		},
 		{
-			"labelName":"lblTxtLabel4",
+			"labelName":"cdField4",
 			"labelDispName": "field4"
 		},
 		{
-			"labelName":"lblTxtLabel5",
+			"labelName":"cdField5",
 			"labelDispName": "field5"
 		},
 		{
-			"labelName":"lblTxtLabel6",
+			"labelName":"cdField6",
 			"labelDispName": "field6"
 		},
 		{
-			"labelName":"lblTxtLabel7",
+			"labelName":"cdField7",
 			"labelDispName": "field7"
 		},
 		{
-			"labelName":"lblTxtLabel8",
+			"labelName":"cd8ield5",
 			"labelDispName": "field8"
 		},
 		{
-			"labelName":"lblTxtLabel9",
+			"labelName":"cdField9",
 			"labelDispName": "field9"
 		},
 
 		{
-			"labelName":"lblTxtLabel10",
+			"labelName":"cdField10",
 			"labelDispName": "field10"
 		}
 
