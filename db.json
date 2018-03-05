@@ -1,0 +1,49 @@
+{
+	"labels":[
+		{
+			"id":1,
+			"label": "field1"
+		},
+		{
+			"id":2,
+			"label": "field2"
+		},
+		{
+			"id":3,
+			"label": "field3"
+		},
+		{
+			"id":4,
+			"label": "field4"
+		},
+		{
+			"id":5,
+			"label": "field5"
+		},
+		{
+			"id":6,
+			"label": "field6"
+		},
+		{
+			"id":7,
+			"label": "field7"
+		},
+		{
+			"id":8,
+			"label": "field8"
+		},
+		{
+			"id":9,
+			"label": "field9"
+		},
+
+		{
+			"id":10,
+			"label": "field10"
+		}
+
+
+	]
+
+
+}
